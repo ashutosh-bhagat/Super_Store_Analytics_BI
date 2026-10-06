@@ -2,6 +2,10 @@
 
 A reference guide for the Super Store sales visualization built from `SuperStore_Sales_Dataset.csv`. The dashboard is designed as an executive sales overview: it combines trend analysis, KPI cards, regional filtering, geographic performance, and product/category breakdowns in one screen.
 
+![Super Store Sales Dashboard](Dashboard%20Final.png)
+
+_Dashboard preview: monthly trends, KPI cards, regional map, and sales breakdowns._
+
 ## Dataset Summary
 
 | Item              |                                  Value |
